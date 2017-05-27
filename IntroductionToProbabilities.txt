@@ -1,0 +1,38 @@
+	Chance behaviour
+
+This is unpredicatbel in the short run, but has a reguar and predictabble pattern in the long run (Law of Large Numbers)
+
+Emperical Probability
+
+Emperical Probabilities ae found through observaitons, not theorizing or calculator
+
+A random phenomenon is one whose individual outcomes are uncertain but there is nontheless a regualr distribution of outcomes in a large number repititions.
+
+The probability of an outcome is the proportion of times an even would occur in a. very long series of independent repititions.
+
+Probability Model:
+
+Sample Space "S" : a set of all possible outcomes.
+Event: Any outcome or set of outcomes of a random phenomenon; is a subset of the sample space
+
+Tree diagrams ☺️
+
+Tree diagrams are for listing a sample s[ace and finding the probability of a sequence of events regardless of whether they are independent or dependent
+
+Multiplication Principle
+
+n1 * n2
+
+Sampling without replacement : Independent
+Sampling with replacement : Dependent
+
+********The dependent setting can be considered independent if the population is over ten time the sample size. ********
+
+5 Probability rules
+1) Probability lies between 0 and 1
+2) If S is sample space, Probability of S = 1
+3) If A and B are disjoint(mutually exclusive) if they have no outcomes in common and so can never occur simultaneoously; probs are added
+***Disjoint events are dependent events. However, dependent events are not automatically disjoint
+4)The compliment of event A, is that A does not occur; hence it is 1 - p(A)
+5)If A and B are independent, then the probs are multiplied.
+***Depending on what information is given, this can e mathematical check for independence.
